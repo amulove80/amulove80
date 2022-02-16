@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Connect with me: 
-[<img align="left" alt="amir-abdella-484667141 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-
-<br />
+[Linkedin]([www.linkedin.com/in/amir-abdella-484667141)
 
 ### Languages and Tools:
 
@@ -52,6 +50,6 @@ Here are some ideas to get you started:
 ### Projects:
 - <a href="https://github.com/amulove80/Saho-Dictionary"> Designed and developed an android application that contains translations of the saho language to english,arabic, and italian.
 Technologies Used: Java, Android Studio, Lexique pro
-[Linkedin]: www.linkedin.com/in/amir-abdella-484667141
+
 
 
